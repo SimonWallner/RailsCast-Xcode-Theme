@@ -54,8 +54,6 @@
 		<string>0.68553 0.513997 0.275796 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.347863 0.548777 0.696342 1</string>
-		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.880905 0.858144 0.834988 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.167832 0.442739 0.673913 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
@@ -70,12 +68,8 @@
 		<string>0.994776 0.733559 0.359448 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.347863 0.548777 0.696342 1</string>
-		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.880905 0.858144 0.834988 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.347863 0.548777 0.696342 1</string>
-		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.880905 0.858144 0.834988 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.74543 0.397199 0.145773 1</string>
 		<key>xcode.syntax.number</key>
@@ -92,7 +86,7 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
-		<string>Monaco - 13.0</string>
+		<string>Monaco - 12.0</string>
 	</dict>
 </dict>
 </plist>
