@@ -92,7 +92,7 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
-		<string>Monaco - 12.0</string>
+		<string>Monaco - 13.0</string>
 	</dict>
 </dict>
 </plist>
