@@ -45,7 +45,7 @@
 		<key>xcode.syntax.attribute</key>
 		<string>0 0.659699 0.851648 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.597477 0.716238 0.311402 1</string>
+		<string>0.575035 0.711718 0.320566 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.68553 0.513997 0.275796 1</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -54,6 +54,8 @@
 		<string>0.68553 0.513997 0.275796 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.347863 0.548777 0.696342 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>1 0.724547 0.361213 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.167832 0.442739 0.673913 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
@@ -65,21 +67,25 @@
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.74543 0.397199 0.145773 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.994776 0.733559 0.359448 1</string>
+		<string>0.835469 0.200265 0.151887 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.347863 0.548777 0.696342 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.327507 0.553804 0.695923 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.347863 0.548777 0.696342 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.597826 0.579433 0.564819 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.74543 0.397199 0.145773 1</string>
+		<string>0.771608 0.388285 0.141671 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.597477 0.716238 0.311402 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.880905 0.858144 0.834988 1</string>
+		<string>0.8827 0.857458 0.835065 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.597967 0.341445 0.143911 1</string>
+		<string>0.771608 0.388285 0.141671 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.795 0.214706 0.163959 1</string>
+		<string>0.575035 0.711718 0.320566 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.597477 0.716238 0.311402 1</string>
 	</dict>
